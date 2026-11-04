@@ -1,0 +1,5 @@
+Our SKU,Vendor Code,Price,Min Qty,External ID
+0007,V-700,12.50,1,vendor_rule_001
+P-200,V-200,49.90,1,vendor_rule_002
+P-200,V-200,44.90,10,vendor_rule_003
+NEW-42,V-042,8.00,1,
